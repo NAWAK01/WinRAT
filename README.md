@@ -12,7 +12,7 @@ Futures updates :
   - MsgBox command
   - Shell at startup
   - Download victim files
-  - Upload files to victim 
+  - Upload files to victim 
 
 enjoy use, 
 nawak
