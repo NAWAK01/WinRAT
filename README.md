@@ -10,7 +10,7 @@ Server run on port 25565
 I will update this code to allow more commands, like messageBox or other
 Futures updates :
   - MsgBox command
-  - Shell at startup
+  - Shell at startup
   - Download victim files
   - Upload files to victim 
 
