@@ -1,4 +1,6 @@
 # WinRAT
+{old release} 
+WinRAT 2.0 is available, check my github profile ! 
 DON'T UPLOAD TO VIRUS TOTAL!!! 
 you can test detection in nodistribute
 
